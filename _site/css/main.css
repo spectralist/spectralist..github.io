@@ -8,13 +8,14 @@ dl, dd, ol, ul, figure {
   padding: 0; }
 
 html, body {
-  height: 100%; }
+  height: 100%;
+ direction:rtl;}
 
 /**
  * Basic styling
  */
 body {
-  direction:rtl;
+ 
   font-family: Tahoma,Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
