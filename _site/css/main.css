@@ -16,7 +16,7 @@ html, body {
  */
 body {
  
-  font-family: Tahoma,Helvetica, Arial, sans-serif;
+  font-family: 'Shabnam',Tahoma,Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
   font-weight: 300;
@@ -95,7 +95,7 @@ blockquote {
     margin-bottom: 0; }
 
 pre {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Shabnam', sans-serif;
   max-width: 540px;
   display: block;
   font-size: 0.875em;
@@ -184,7 +184,7 @@ code {
  * Posts
  */
 .post-header {
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Shabnam', sans-serif;
   color: #373737;
   max-width: 540px;
   padding: 0px 10px;
@@ -211,7 +211,7 @@ code {
     margin-bottom: 20px; }
   .post-content h2 {
     font-size: 32px;
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Shabnam', sans-serif;
     max-width: 540px;
     padding: 0px 10px;
     margin: 0 auto;
@@ -221,7 +221,7 @@ code {
         font-size: 28px; } }
   .post-content h3 {
     font-size: 26px;
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Shabnam', sans-serif;
     max-width: 540px;
     padding: 0px 10px;
     margin: 0 auto;
@@ -231,7 +231,7 @@ code {
         font-size: 22px; } }
   .post-content h4 {
     font-size: 20px;
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Shabnam', sans-serif;
     max-width: 540px;
     padding: 0px 10px;
     margin: 0 auto;
@@ -268,7 +268,7 @@ code {
   padding: 0 10px; }
 
 .home a {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Shabnam', sans-serif;
   font-size: 36px;
   color: #444;
   padding: 10px; }
@@ -348,11 +348,11 @@ code {
 
 .site-name__inner .name {
   font-size: 100px;
-  font-family: 'Source Sans Pro', sans-serif; }
+  font-family: 'Shabnam', sans-serif; }
 
 .site-name__inner .desc {
   font-size: 20px;
-  font-family: 'Open Sans', sans-serif; }
+  font-family: 'Shabnam', sans-serif; }
 
 .site-name__inner .btn {
   padding: 10px 30px;
