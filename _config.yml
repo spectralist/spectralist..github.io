@@ -2,7 +2,7 @@
 title: Spectralist
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
- دست نوشته هایی که با دست نوشته نشدند.
+ دست نوشته هایی که با دست نوشته نشدند
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://spectralist.github.io/" # the base hostname & protocol for your site
 twitter_username: jekyllrb
