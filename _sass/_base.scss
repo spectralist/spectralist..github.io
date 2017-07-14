@@ -10,6 +10,7 @@ dl, dd, ol, ul, figure {
 
 html, body{
     height: 100%;
+    direction:rtl;
 }
 
 /**
@@ -129,7 +130,7 @@ blockquote {
 
 
 pre {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Shabnam','Open Sans', sans-serif;
     max-width: 540px;
     display: block;
     font-size: 0.875em;
