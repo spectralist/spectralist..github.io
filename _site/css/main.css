@@ -128,7 +128,7 @@ code {
  * Site header
  */
 .site-header {
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Shabnam','Source Sans Pro', sans-serif;
   min-height: 56px;
   max-width: 940px;
   margin: 0 auto;
@@ -200,7 +200,7 @@ code {
       font-size: 36px; } }
 
 .post-content {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Shabnam','Open Sans', sans-serif;
   color: #373737;
   margin-bottom: 30px; }
   .post-content p {
