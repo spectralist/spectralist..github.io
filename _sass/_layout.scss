@@ -2,7 +2,7 @@
  * Site header
  */
 .site-header {
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Shabnam','Source Sans Pro', sans-serif;
     min-height: 56px;
     max-width: 940px;
     margin: 0 auto;
@@ -76,7 +76,7 @@
  * Posts
  */
 .post-header {
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Shabnam','Source Sans Pro', sans-serif;
     color: #373737;
     max-width: 540px;
     padding: 0px 10px;
@@ -95,7 +95,7 @@
 }
 
 .post-content {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Shabnam','Open Sans', sans-serif;
     color: #373737;
     margin-bottom: $spacing-unit;
 
@@ -109,7 +109,7 @@
 
     h2 {
         font-size: 32px;
-        font-family: 'Source Sans Pro', sans-serif;
+        font-family: 'Shabnam','Source Sans Pro', sans-serif;
 
         @include media-query($on-laptop) {
             font-size: 28px;
@@ -123,7 +123,7 @@
 
     h3 {
         font-size: 26px;
-        font-family: 'Source Sans Pro', sans-serif;
+        font-family: 'Shabnam','Source Sans Pro', sans-serif;
 
         @include media-query($on-laptop) {
             font-size: 22px;
@@ -137,7 +137,7 @@
 
     h4 {
         font-size: 20px;
-        font-family: 'Source Sans Pro', sans-serif;
+        font-family: 'Shabnam','Source Sans Pro', sans-serif;
 
         @include media-query($on-laptop) {
             font-size: 18px;
@@ -183,7 +183,7 @@
 }
 
 .home  a {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Shabnam','Open Sans', sans-serif;
     font-size: 36px;
     color: #444;
     padding: 10px;
@@ -273,12 +273,12 @@
 
 .site-name__inner .name {
     font-size: 100px;
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Shabnam', 'Source Sans Pro', sans-serif;
 }
 
 .site-name__inner .desc {
     font-size: 20px;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Shabnam','Open Sans', sans-serif;
 }
 
 .site-name__inner .btn {
